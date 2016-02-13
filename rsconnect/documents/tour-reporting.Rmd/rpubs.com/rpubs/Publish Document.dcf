@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/151898/65278b1bc3a345c89667d4cea2132d58
+url: http://rpubs.com/arfenarf/151898
+when: 1455371540.91373

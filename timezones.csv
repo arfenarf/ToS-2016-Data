@@ -1,0 +1,48 @@
+trtime,olson,diff,order
+Hawaiian Standard Time,Pacific/Honolulu,-10,22
+Alaskan Standard Time,America/Anchorage,-9,21
+Pacific Standard Time,PST8PDT,-8,20
+Mountain Standard Time,MST7MDT,-7,19
+US Mountain Standard Time,MST7MDT,-7,19
+Central Standard Time,CST6CDT,-6,18
+Canada Central Standard Time,America/Winnipeg,-6,18
+Central America Standard Time,America/Belize,-6,18
+Central Standard Time (Mexico),America/Mexico_City,-6,18
+Eastern Standard Time,EST5EDT,-5,17
+US Eastern Standard Time,EST5EDT,-5,17
+SA Pacific Standard Time,America/Bogota,-5,17
+Pacific SA Standard Time,America/Bogota,-5,17
+Venezuela Standard Time,America/Caracas,-4.5,16.5
+Atlantic Standard Time,America/Halifax,-4,16
+Newfoundland Standard Time,America/St_Johns,-3.5,15
+E South America Standard Time,America/Sao_Paulo,-3,14
+E. South America Standard Time,America/Sao_Paulo,-3,14
+GMT Standard Time,GMT,0,12
+UTC,UTC,0,12
+Morocco Standard Time,Africa/Casablanca,0,12
+Greenwich Standard Time,GMT,0,12
+Central Europe Standard Time,Europe/Paris,1,11
+Romance Standard Time,Europe/Paris,1,11
+W. Europe Standard Time,Europe/Paris,1,11
+W. Central Africa Standard Time,Africa/Algiers,1,11
+FLE Standard Time,Europe/Kiev,2,10
+South Africa Standard Time,Africa/Johannesburg,2,10
+GTB Standard Time,Europe/Athens,2,10
+Egypt Standard Time,Africa/Cairo,2,10
+E. Europe Standard Time,Europe/Athens,2,10
+Arab Standard Time,Asia/Riyadh,3,9
+Russian Standard Time,Europe/Moscow,3,9
+Arabian Standard Time,Asia/Dubai,4,8
+India Standard Time,Asia/Calcutta,5.5,6
+SE Asia Standard Time,Asia/Bangkok,7,7
+W. Australia Standard Time,Australia/Perth,8,6
+China Standard Time,Asia/Shanghai,8,6
+Singapore Standard Time,Asia/Singapore,8,6
+Korea Standard Time,Asia/Seoul,9,5
+Tokyo Standard Time,Asia/Tokyo,9,5
+Cen. Australia Standard Time,Australia/Darwin,9.5,4.5
+AUS Eastern Standard Time,Australia/Sydney,10,4
+E. Australia Standard Time,Australia/Sydney,10,4
+Tasmania Standard Time,Australia/Hobart,10,4
+New Zealand Standard Time,Pacific/Auckland,12,2
+Fiji Standard Time,Pacific/Fiji,12,2
